@@ -2,6 +2,8 @@
 
 Este proyecto es una página web de un restaurante llamado "Tasty" que ha sido creado con el objetivo de practicar el uso de Bootstrap.
 
+![alt text](/images/tasty.png)
+
 ## Instalación
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando en tu terminal:
 
